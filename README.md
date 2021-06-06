@@ -6,7 +6,14 @@ Date: 05/06/2021
 
 Instructions to run the code
 --
-After installing Elixir on your machine go inside the root of this project.  
+
+Links to install `Elixir`:
+
+windows: https://elixir-lang.org/install.html#windows  
+Linux: https://elixir-lang.org/install.html#gnulinux  
+MacOs: https://elixir-lang.org/install.html#macos  
+
+After installing `Elixir` on your machine go inside the root of this project.  
 
 To showcase the Server example follow these steps: 
   1) Compile the file `server.exs` and get into the interactive elixir console:  
